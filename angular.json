@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sportsmgmt"
+    }
+  },
+  "defaultProject": "sportsmgmt",
+  "cli": {
+    "analytics": false
+  }
 }
